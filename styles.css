@@ -1,0 +1,95 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+}
+
+/* Header Styles */
+header {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+iframe {
+  margin-top: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Hero Section Styles */
+.hero {
+  background-image: url('images/VROne.jpg');
+  background-color: #cccccc;
+  background-size: 90%;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.button {
+  background-color: #fff;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+/* Services Section Styles */
+.services {
+  background-color: #f7f7f7;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.services h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.services ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.services li {
+  background-color: #fff;
+  border-radius: 5
+}
+
+p {
+font-size: 18px;
+}
